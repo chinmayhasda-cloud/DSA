@@ -33,4 +33,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/chinmayhasda-cloud/DSA/tree/main/0050-powx-n/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/chinmayhasda-cloud/DSA/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
