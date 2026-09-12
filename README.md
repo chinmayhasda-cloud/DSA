@@ -19,4 +19,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/chinmayhasda-cloud/DSA/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
