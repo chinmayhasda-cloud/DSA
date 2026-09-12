@@ -28,4 +28,9 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/chinmayhasda-cloud/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/chinmayhasda-cloud/DSA/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/chinmayhasda-cloud/DSA/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
