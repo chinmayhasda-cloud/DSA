@@ -1,2 +1,1 @@
-# DSA
-colle
+#DSA
