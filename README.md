@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/chinmayhasda-cloud/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/chinmayhasda-cloud/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/chinmayhasda-cloud/DSA/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayhasda-cloud/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chinmayhasda-cloud/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayhasda-cloud/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
