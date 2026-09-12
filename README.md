@@ -45,4 +45,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/chinmayhasda-cloud/DSA/tree/main/0069-sqrtx/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/chinmayhasda-cloud/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
