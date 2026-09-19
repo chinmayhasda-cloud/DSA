@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayhasda-cloud/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chinmayhasda-cloud/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
