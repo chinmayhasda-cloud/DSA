@@ -39,6 +39,7 @@
 | [0050-powx-n](https://github.com/chinmayhasda-cloud/DSA/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/chinmayhasda-cloud/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/chinmayhasda-cloud/DSA/tree/main/0069-sqrtx/) | Easy |
+| [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chinmayhasda-cloud/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/chinmayhasda-cloud/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Recursion
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayhasda-cloud/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +78,16 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/chinmayhasda-cloud/DSA/tree/main/0724-find-pivot-index/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
