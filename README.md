@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/chinmayhasda-cloud/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -27,6 +28,7 @@
 | [0041-first-missing-positive](https://github.com/chinmayhasda-cloud/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/chinmayhasda-cloud/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/chinmayhasda-cloud/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Brainteaser
