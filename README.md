@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/chinmayhasda-cloud/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chinmayhasda-cloud/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/chinmayhasda-cloud/DSA/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/chinmayhasda-cloud/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/chinmayhasda-cloud/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
