@@ -21,6 +21,7 @@
 | [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/chinmayhasda-cloud/DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chinmayhasda-cloud/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
@@ -121,4 +122,13 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/chinmayhasda-cloud/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
