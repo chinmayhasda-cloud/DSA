@@ -35,6 +35,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/chinmayhasda-cloud/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chinmayhasda-cloud/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/chinmayhasda-cloud/DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/chinmayhasda-cloud/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
