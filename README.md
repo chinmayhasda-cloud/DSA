@@ -70,6 +70,7 @@
 | [0050-powx-n](https://github.com/chinmayhasda-cloud/DSA/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/chinmayhasda-cloud/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/chinmayhasda-cloud/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0263-ugly-number/) | Easy |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/chinmayhasda-cloud/DSA/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
@@ -79,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/chinmayhasda-cloud/DSA/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/chinmayhasda-cloud/DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
