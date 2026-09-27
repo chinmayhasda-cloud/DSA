@@ -72,6 +72,7 @@
 | [0069-sqrtx](https://github.com/chinmayhasda-cloud/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/0326-power-of-three/) | Easy |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/chinmayhasda-cloud/DSA/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chinmayhasda-cloud/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/chinmayhasda-cloud/DSA/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/0326-power-of-three/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
