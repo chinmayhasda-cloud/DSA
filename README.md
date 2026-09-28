@@ -78,6 +78,7 @@
 | [0342-power-of-four](https://github.com/chinmayhasda-cloud/DSA/tree/main/0342-power-of-four/) | Easy |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/chinmayhasda-cloud/DSA/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chinmayhasda-cloud/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/chinmayhasda-cloud/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -126,6 +127,7 @@
 | [0283-move-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
