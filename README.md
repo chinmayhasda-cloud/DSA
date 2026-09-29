@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/chinmayhasda-cloud/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmayhasda-cloud/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -49,6 +50,7 @@
 | [0041-first-missing-positive](https://github.com/chinmayhasda-cloud/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/chinmayhasda-cloud/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -65,6 +67,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/chinmayhasda-cloud/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmayhasda-cloud/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/chinmayhasda-cloud/DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chinmayhasda-cloud/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -83,6 +86,7 @@
 | [0069-sqrtx](https://github.com/chinmayhasda-cloud/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/chinmayhasda-cloud/DSA/tree/main/0342-power-of-four/) | Easy |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
@@ -127,6 +131,7 @@
 | [0136-single-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/chinmayhasda-cloud/DSA/tree/main/0342-power-of-four/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/chinmayhasda-cloud/DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Two Pointers
@@ -176,6 +181,7 @@
 | [0049-group-anagrams](https://github.com/chinmayhasda-cloud/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/chinmayhasda-cloud/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
