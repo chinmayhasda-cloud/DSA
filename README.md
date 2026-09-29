@@ -25,6 +25,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmayhasda-cloud/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
+| [0275-h-index-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -68,6 +69,7 @@
 | [0162-find-peak-element](https://github.com/chinmayhasda-cloud/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmayhasda-cloud/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
+| [0275-h-index-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0275-h-index-ii/) | Medium |
 | [0704-binary-search](https://github.com/chinmayhasda-cloud/DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chinmayhasda-cloud/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
