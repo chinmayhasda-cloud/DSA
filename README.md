@@ -34,6 +34,7 @@
 | [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/chinmayhasda-cloud/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/chinmayhasda-cloud/DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -66,6 +67,7 @@
 | [0704-binary-search](https://github.com/chinmayhasda-cloud/DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chinmayhasda-cloud/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/chinmayhasda-cloud/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
