@@ -87,6 +87,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/chinmayhasda-cloud/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/chinmayhasda-cloud/DSA/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/chinmayhasda-cloud/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/chinmayhasda-cloud/DSA/tree/main/0069-sqrtx/) | Easy |
@@ -134,6 +135,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
