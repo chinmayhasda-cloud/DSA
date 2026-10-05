@@ -45,6 +45,7 @@
 | [1732-find-the-highest-altitude](https://github.com/chinmayhasda-cloud/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chinmayhasda-cloud/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chinmayhasda-cloud/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chinmayhasda-cloud/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -234,4 +236,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/chinmayhasda-cloud/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chinmayhasda-cloud/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
