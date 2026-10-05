@@ -97,6 +97,7 @@
 | [0326-power-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/chinmayhasda-cloud/DSA/tree/main/0342-power-of-four/) | Easy |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/chinmayhasda-cloud/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/chinmayhasda-cloud/DSA/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
@@ -229,4 +230,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/chinmayhasda-cloud/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 <!---LeetCode Topics End-->
