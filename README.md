@@ -131,6 +131,7 @@
 | [0344-reverse-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0541-reverse-string-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@
 | [0283-move-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinmayhasda-cloud/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
