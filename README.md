@@ -133,6 +133,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/chinmayhasda-cloud/DSA/tree/main/0709-to-lower-case/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinmayhasda-cloud/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chinmayhasda-cloud/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinmayhasda-cloud/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,4 +270,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinmayhasda-cloud/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinmayhasda-cloud/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
