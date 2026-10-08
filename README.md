@@ -84,6 +84,7 @@
 | [0278-first-bad-version](https://github.com/chinmayhasda-cloud/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/chinmayhasda-cloud/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/chinmayhasda-cloud/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/chinmayhasda-cloud/DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chinmayhasda-cloud/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -248,6 +249,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/chinmayhasda-cloud/DSA/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/chinmayhasda-cloud/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
