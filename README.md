@@ -36,6 +36,7 @@
 | [0275-h-index-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0414-third-maximum-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/chinmayhasda-cloud/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
@@ -234,6 +235,7 @@
 | [0242-valid-anagram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/chinmayhasda-cloud/DSA/tree/main/0274-h-index/) | Medium |
+| [0414-third-maximum-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/chinmayhasda-cloud/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
