@@ -133,6 +133,7 @@
 | [0507-perfect-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/chinmayhasda-cloud/DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/chinmayhasda-cloud/DSA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
