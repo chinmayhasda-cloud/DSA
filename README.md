@@ -54,6 +54,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chinmayhasda-cloud/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinmayhasda-cloud/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chinmayhasda-cloud/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -319,4 +320,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chinmayhasda-cloud/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
