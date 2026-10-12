@@ -27,6 +27,7 @@
 | [0162-find-peak-element](https://github.com/chinmayhasda-cloud/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmayhasda-cloud/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/chinmayhasda-cloud/DSA/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/chinmayhasda-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -113,6 +114,7 @@
 | [0069-sqrtx](https://github.com/chinmayhasda-cloud/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/chinmayhasda-cloud/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0263-ugly-number/) | Easy |
@@ -181,6 +183,7 @@
 | [0042-trapping-rain-water](https://github.com/chinmayhasda-cloud/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmayhasda-cloud/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
