@@ -71,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
@@ -147,6 +148,7 @@
 | [0242-valid-anagram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/chinmayhasda-cloud/DSA/tree/main/0709-to-lower-case/) | Easy |
@@ -176,6 +178,7 @@
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/chinmayhasda-cloud/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/chinmayhasda-cloud/DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -235,6 +238,7 @@
 | [0242-valid-anagram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/chinmayhasda-cloud/DSA/tree/main/0274-h-index/) | Medium |
+| [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/chinmayhasda-cloud/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
