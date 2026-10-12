@@ -36,6 +36,7 @@
 | [0275-h-index-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/chinmayhasda-cloud/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -71,6 +72,7 @@
 | [0217-contains-duplicate](https://github.com/chinmayhasda-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -94,6 +96,7 @@
 | [0275-h-index-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/chinmayhasda-cloud/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/chinmayhasda-cloud/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/chinmayhasda-cloud/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -197,6 +200,7 @@
 | [0283-move-zeroes](https://github.com/chinmayhasda-cloud/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -244,6 +248,7 @@
 | [0242-valid-anagram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/chinmayhasda-cloud/DSA/tree/main/0274-h-index/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/chinmayhasda-cloud/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
