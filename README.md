@@ -61,6 +61,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinmayhasda-cloud/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chinmayhasda-cloud/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/chinmayhasda-cloud/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/chinmayhasda-cloud/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
