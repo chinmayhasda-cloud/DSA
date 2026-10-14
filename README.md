@@ -140,6 +140,7 @@
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/chinmayhasda-cloud/DSA/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [3099-harshad-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chinmayhasda-cloud/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/chinmayhasda-cloud/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
