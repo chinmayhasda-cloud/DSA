@@ -103,6 +103,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/chinmayhasda-cloud/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/chinmayhasda-cloud/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/chinmayhasda-cloud/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/chinmayhasda-cloud/DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chinmayhasda-cloud/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -134,6 +135,7 @@
 | [0326-power-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/chinmayhasda-cloud/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/chinmayhasda-cloud/DSA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/chinmayhasda-cloud/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
