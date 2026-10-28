@@ -42,6 +42,7 @@
 | [0414-third-maximum-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/chinmayhasda-cloud/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -80,6 +81,7 @@
 | [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/chinmayhasda-cloud/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chinmayhasda-cloud/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -285,12 +287,14 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chinmayhasda-cloud/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0496-next-greater-element-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinmayhasda-cloud/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chinmayhasda-cloud/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0496-next-greater-element-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
