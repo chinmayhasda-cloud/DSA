@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/chinmayhasda-cloud/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/chinmayhasda-cloud/DSA/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/chinmayhasda-cloud/DSA/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/chinmayhasda-cloud/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -209,6 +210,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chinmayhasda-cloud/DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/chinmayhasda-cloud/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/chinmayhasda-cloud/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmayhasda-cloud/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -260,6 +262,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/chinmayhasda-cloud/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/chinmayhasda-cloud/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/chinmayhasda-cloud/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -284,6 +287,7 @@
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/chinmayhasda-cloud/DSA/tree/main/0075-sort-colors/) | Medium |
 | [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -384,4 +388,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/0292-nim-game/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/chinmayhasda-cloud/DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
