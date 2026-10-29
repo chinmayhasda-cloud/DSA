@@ -139,6 +139,7 @@
 | [0367-valid-perfect-square](https://github.com/chinmayhasda-cloud/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/chinmayhasda-cloud/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chinmayhasda-cloud/DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -157,6 +158,7 @@
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/chinmayhasda-cloud/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/chinmayhasda-cloud/DSA/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@
 | [0042-trapping-rain-water](https://github.com/chinmayhasda-cloud/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/chinmayhasda-cloud/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayhasda-cloud/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
 ## Bit Manipulation
@@ -322,6 +325,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/chinmayhasda-cloud/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
