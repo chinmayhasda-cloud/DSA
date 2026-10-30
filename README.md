@@ -56,6 +56,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chinmayhasda-cloud/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/chinmayhasda-cloud/DSA/tree/main/1051-height-checker/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chinmayhasda-cloud/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/chinmayhasda-cloud/DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
