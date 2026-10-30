@@ -1,13 +1,12 @@
 class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
-        vector<int>ans(arr.size());
-       // int max=-1;
-        ans[arr.size()-1]=-1;
-        for(int i=0;i<arr.size()-1;i++){
-           //max=-1;
-           ans[i]=*max_element(arr.begin()+i+1,arr.end());
+        int maxi = -1;
+       for(int i=arr.size()-1; i>=0; i--){
+            int temp=arr[i];
+            arr[i]=maxi;
+               maxi=max(maxi,temp);
         }
-          return ans;
+     return arr;
     }
 };
