@@ -193,6 +193,7 @@
 | [0042-trapping-rain-water](https://github.com/chinmayhasda-cloud/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/chinmayhasda-cloud/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinmayhasda-cloud/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/chinmayhasda-cloud/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1025-divisor-game](https://github.com/chinmayhasda-cloud/DSA/tree/main/1025-divisor-game/) | Easy |
@@ -206,6 +207,7 @@
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/chinmayhasda-cloud/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/chinmayhasda-cloud/DSA/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/chinmayhasda-cloud/DSA/tree/main/0526-beautiful-arrangement/) | Medium |
