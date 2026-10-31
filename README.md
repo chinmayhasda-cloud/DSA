@@ -120,6 +120,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/chinmayhasda-cloud/DSA/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/chinmayhasda-cloud/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -201,6 +202,7 @@
 | [0029-divide-two-integers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/chinmayhasda-cloud/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
