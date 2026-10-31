@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/chinmayhasda-cloud/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/chinmayhasda-cloud/DSA/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/chinmayhasda-cloud/DSA/tree/main/0066-plus-one/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/chinmayhasda-cloud/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/chinmayhasda-cloud/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmayhasda-cloud/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -95,6 +96,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/chinmayhasda-cloud/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/chinmayhasda-cloud/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/chinmayhasda-cloud/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -395,4 +397,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/chinmayhasda-cloud/DSA/tree/main/0075-sort-colors/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/chinmayhasda-cloud/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
