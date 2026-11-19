@@ -36,6 +36,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/chinmayhasda-cloud/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/chinmayhasda-cloud/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/chinmayhasda-cloud/DSA/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0275-h-index-ii/) | Medium |
@@ -208,6 +209,7 @@
 | [0137-single-number-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/chinmayhasda-cloud/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/chinmayhasda-cloud/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/chinmayhasda-cloud/DSA/tree/main/0338-counting-bits/) | Easy |
