@@ -47,6 +47,7 @@
 | [0414-third-maximum-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/chinmayhasda-cloud/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/chinmayhasda-cloud/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chinmayhasda-cloud/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/chinmayhasda-cloud/DSA/tree/main/0506-relative-ranks/) | Easy |
@@ -242,6 +243,7 @@
 | [0344-reverse-string](https://github.com/chinmayhasda-cloud/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chinmayhasda-cloud/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/chinmayhasda-cloud/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/chinmayhasda-cloud/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/chinmayhasda-cloud/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -299,6 +301,7 @@
 | [0389-find-the-difference](https://github.com/chinmayhasda-cloud/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/chinmayhasda-cloud/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/chinmayhasda-cloud/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/chinmayhasda-cloud/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/chinmayhasda-cloud/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chinmayhasda-cloud/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -369,6 +372,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/chinmayhasda-cloud/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinmayhasda-cloud/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -421,6 +425,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/chinmayhasda-cloud/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0455-assign-cookies](https://github.com/chinmayhasda-cloud/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
